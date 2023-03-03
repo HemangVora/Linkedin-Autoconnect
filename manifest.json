@@ -1,7 +1,7 @@
 {
     "name": "Linked Connect",
     "version": "1.0.0",
-    "description": "latest covid data of UK",
+    "description": "Auto connect to linkedin connections",
     "manifest_version": 3,
     "author": "Sampurna Chapagain",
     "action":{
